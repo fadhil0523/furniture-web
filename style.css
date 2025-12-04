@@ -10,7 +10,7 @@
 }
 .logo img {
   width: 10vw;
-  height: 5vh;
+  height: 10vh  !important;
   margin-top: 4vh;
 }
 .brand-name {
